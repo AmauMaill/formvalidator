@@ -2,6 +2,10 @@
 
 This project demonstrates a form validation system built with plain JavaScript. The validation logic ensures that user inputs adhere to specific rules, providing real-time feedback and error messages. The project is based on a tutorial by Brad Traversy.
 
+
+You can see a [live demo here](https://amaumaill.github.io/formvalidator/).
+
+
 ## Features
 
 - **Input Validations**:
